@@ -26,12 +26,3 @@
 | **Collaaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white) |
 
 </div>
-
-<br>
-
-## 🌱 Contribution Graph
-
-<div align="left">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiyunio&theme=minimal&hide_border=true&area=true&color=007396&line=6DB33F&point=6DB33F&custom_title=My%20grass"/>
-</div>
